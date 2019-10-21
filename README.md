@@ -1,2 +1,2 @@
-# tello-on-node
+# tello-node-cli
 🐝
