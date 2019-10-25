@@ -5,5 +5,3 @@
 3. Input whatever command listed in [the Document(Tello SDK)](https://www.ryzerobotics.com/jp/tello/downloads)
 
 Hitting `q[Enter]` will close the CLI with the socket closed. 
-
-🐝
